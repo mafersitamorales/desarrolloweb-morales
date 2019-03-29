@@ -1,0 +1,17 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text transform="matrix(14.0054, 0, 0, 10.7062, -2614.71, -1786.02)" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="190.604257" x="190.359655" stroke-width="0" stroke="#000" fill="#000000">M</text>
+  <text transform="matrix(13.3639, 0, 0, 10.7314, -5269.54, -2044.1)" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="214.224368" x="415.600332" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ff7f00">F</text>
+  <rect id="svg_7" height="59" width="400" y="257.449997" x="76.5" stroke-width="null" stroke="#e5e5e5" fill="#b2b2b2"/>
+  <text font-style="normal" transform="matrix(2.51614, 0, 0, 2.39011, -121.758, -440.654)" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="24" id="svg_3" y="312.190198" x="80.469727" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff">desarrollo web</text>
+ </g>
+</svg>
